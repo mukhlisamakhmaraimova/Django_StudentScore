@@ -1,0 +1,18 @@
+# Django_Student_Score: In this project, it is possible to add, delete, update, and get information about students.
+
+open a new project named django_student_score
+activate venv
+install django
+create project
+create app
+add to settings creating apps
+install neseccary modules
+write important py files
+createsuperuser
+makemigration
+migrate
+runserver
+/students
+/admin
+
+
